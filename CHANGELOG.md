@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.4.1](https://github.com/jdx/hk/compare/v2.4.0..v2.4.1) - 2026-09-28
+
+### 🐛 Bug Fixes
+
+- **(stash)** preserve CRLF when restoring unstaged files by [@jdx](https://github.com/jdx) in [#1535](https://github.com/jdx/hk/pull/1535)
+
+### 📚 Documentation
+
+- refresh competitor benchmark for v2.4.0 by [@jdx](https://github.com/jdx) in [#1536](https://github.com/jdx/hk/pull/1536)
+
+### 📦️ Dependency Updates
+
+- lock file maintenance by [@renovate[bot]](https://github.com/renovate[bot]) in [#1537](https://github.com/jdx/hk/pull/1537)
+
 ## [2.4.0](https://github.com/jdx/hk/compare/v2.3.1..v2.4.0) - 2026-09-28
 
 ### 🚀 Features
